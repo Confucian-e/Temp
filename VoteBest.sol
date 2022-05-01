@@ -43,17 +43,17 @@ contract VoteBest {
         voted();
     }
 
-    function vote_zc() public {
+    function vote_zc() public checkVoted {
         zc.votes++;
         voted();
     }
 
-    function vote_pml() public {
+    function vote_pml() public checkVoted {
         pml.votes++;
         voted();
     }
 
-    function vote_wzy() public {
+    function vote_wzy() public checkVoted {
         wzy.votes++;
         voted();
     }
