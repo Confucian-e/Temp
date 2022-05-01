@@ -14,7 +14,7 @@ faucet网址：https://faucet.egorfine.com/
 
 ## 2.进入区块链浏览器
 
-点击网址：https://ropsten.etherscan.io/address/0x16ef1d26da6dfc4d5dd3ad0848e6055906da975e
+点击网址：https://ropsten.etherscan.io/address/0xab3a6332f1ba939b1c0f5fa3618e9ebe925643af
 
 打开后进入合约界面
 
